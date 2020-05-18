@@ -152,3 +152,4 @@ the Free Software Foundation, either version 3 of the License, or
 
 Shoutout to the community over at the Discord-API Discord servers, who gave me a helping hand when the Rewrite library gave me headaches.
 
+[![Run on Repl.it](https://repl.it/badge/github/adriansteffan/DiscordJockey)](https://repl.it/github/adriansteffan/DiscordJockey)
